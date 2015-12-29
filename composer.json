@@ -1,0 +1,16 @@
+{
+	"description": "The CodeIgniter framework v2.x.x",
+	"name": "hoksi/Codeigniter-v2",
+	"type": "project",
+	"homepage": "http://codeigniter.com",
+	"license": "EllisLab open source license",
+	"support": {
+		"forum": "http://forum.codeigniter.com/",
+		"wiki": "https://github.com/bcit-ci/CodeIgniter/wiki",
+		"irc": "irc://irc.freenode.net/codeigniter",
+		"source": "https://github.com/bcit-ci/CodeIgniter/tree/2.2-stable"
+	},
+	"require": {
+		"php": ">=5.1.6"
+	}
+}
